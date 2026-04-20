@@ -1,1 +1,3 @@
 vinod is a good guy 
+
+detect cycle in the linkedlist
